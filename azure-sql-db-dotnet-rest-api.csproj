@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <RootNamespace>AzureSamples.AzureSQL</RootNamespace>
+    <UserSecretsId>5efc7c71-6bc9-4a04-b9f8-2869522fd6fa</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
